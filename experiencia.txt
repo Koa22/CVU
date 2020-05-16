@@ -2,7 +2,11 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<<<<<<< HEAD
 <link rel="stylesheet" type="text/css" href="style.css">
+=======
+<link rel="stylesheet" type="text/css" href="responsivo\style.css">
+>>>>>>> 9d1f9dfc911def57da7e307799478a47321969a3
 </head>
 <body>
 
@@ -14,10 +18,17 @@
 
 <div class="col-3 menu">
   <ul>
+<<<<<<< HEAD
     <li><a href="index.html"> Datos Generales</a></li>
     <li><a href="objetivos.html">Objetivo Profesional</a> </li>
     <li><a href="experiencia.html">Experiencia Profesional</a> </li>
     <li><a href="intereses.html">Intereses</a> </li>
+=======
+    <li><a href="responsivo\index.html"> Datos Generales</a></li>
+    <li><a href="responsivo\objetivos.html">Objetivo Profesional</a> </li>
+    <li><a href="responsivo\experiencia.html">Experiencia Profesional</a> </li>
+    <li><a href="responsivo\intereses.html">Intereses</a> </li>
+>>>>>>> 9d1f9dfc911def57da7e307799478a47321969a3
   </ul>
 </div>
 
@@ -59,6 +70,10 @@
 
 <div class="footer">
   <p>Alan Josue - Derechos Reservados - 2020</p>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9d1f9dfc911def57da7e307799478a47321969a3
 </div>
 
 </body>
