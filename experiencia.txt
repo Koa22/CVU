@@ -14,7 +14,7 @@
 
 <div class="col-3 menu">
   <ul>
-    <li><a href="responsivo\2RedistribuyeMenu.html"> Datos Generales</a></li>
+    <li><a href="responsivo\index.html"> Datos Generales</a></li>
     <li><a href="responsivo\objetivos.html">Objetivo Profesional</a> </li>
     <li><a href="responsivo\experiencia.html">Experiencia Profesional</a> </li>
     <li><a href="responsivo\intereses.html">Intereses</a> </li>
