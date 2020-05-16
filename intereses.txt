@@ -63,7 +63,8 @@
 </div>
 
 <div class="footer">
- 
+  <p>Alan Josue - Derechos Reservados - 2020</p>
+
 </div>
 
 </body>
