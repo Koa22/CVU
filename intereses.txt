@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" type="text/css" href="\Users\ALAN\Documents\EjemplosCssToAlumnos\responsivo\style.css">
+<link rel="stylesheet" type="text/css" href="responsivo\style.css">
 </head>
 <body>
 
@@ -14,10 +14,10 @@
 
 <div class="col-3 menu">
   <ul>
-    <li><a href="C:\Users\ALAN\Documents\EjemplosCssToAlumnos\responsivo\2RedistribuyeMenu.html"> Datos Generales</a></li>
-    <li><a href="C:\Users\ALAN\Documents\EjemplosCssToAlumnos\responsivo\objetivos.html">Objetivo Profesional</a> </li>
-    <li><a href="C:\Users\ALAN\Documents\EjemplosCssToAlumnos\responsivo\experiencia.html">Experiencia Profesional</a> </li>
-    <li><a href="C:\Users\ALAN\Documents\EjemplosCssToAlumnos\responsivo\intereses.html">Intereses</a> </li>
+    <li><a href="responsivo\index.html"> Datos Generales</a></li>
+    <li><a href="responsivo\objetivos.html">Objetivo Profesional</a> </li>
+    <li><a href="responsivo\experiencia.html">Experiencia Profesional</a> </li>
+    <li><a href="responsivo\intereses.html">Intereses</a> </li>
   </ul>
 </div>
 
@@ -63,7 +63,7 @@
 </div>
 
 <div class="footer">
-  <p class="new">Cambiar el tama&ntilde;o de la ventana del navegador para ver c&oacute;mo responde el contenido al redimensionamiento.</p>
+ 
 </div>
 
 </body>
